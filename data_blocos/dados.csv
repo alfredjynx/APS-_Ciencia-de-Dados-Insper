@@ -1,47 +1,4 @@
 Series Name,Series Code,Country Name,Country Code,1990 [YR1990],2000 [YR2000],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Arab World,ARB,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Caribbean small states,CSS,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Central Europe and the Baltics,CEB,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Early-demographic dividend,EAR,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,East Asia & Pacific,EAS,..,..,..,..,..,8.6,8.5,9.3,12.2,11.8,10.2,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,East Asia & Pacific (excluding high income),EAP,..,..,..,..,..,9.1,9.1,9.9,13.1,12.6,10.8,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,East Asia & Pacific (IDA & IBRD),TEA,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Euro area,EMU,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Europe & Central Asia,ECS,..,..,..,..,..,10.6,10.7,10.5,10.7,9.9,10.4,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Europe & Central Asia (excluding high income),ECA,..,..,..,..,..,13.5,15.2,15.4,15.9,14.8,16.3,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Europe & Central Asia (IDA & IBRD),TEC,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,European Union,EUU,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Heavily indebted poor countries (HIPC),HPC,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,High income,HIC,..,..,..,..,..,..,8.6,8.2,7.9,7.7,7.6,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,IBRD only,IBD,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,IDA & IBRD total,IBT,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,IDA blend,IDB,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,IDA only,IDX,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,IDA total,IDA,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Late-demographic dividend,LTE,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Latin America & Caribbean,LCN,..,..,..,..,..,24.9,27.5,31.3,33.2,31.7,31.9,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Latin America & Caribbean (excluding high income),LAC,..,..,..,..,..,25,27.7,31.5,33.5,31.9,32.2,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Latin America & Caribbean (IDA & IBRD),TLA,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Least developed countries: UN classification,LDC,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Low & middle income,LMY,..,..,..,..,..,..,25.1139351838726,26.2305462669155,28.0931159324179,29.3237794008336,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Low income,LIC,..,..,..,..,..,..,54.6,56.4,57.9,58.7,59.6,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Lower middle income,LMC,..,..,..,..,..,..,31.5,31.5,32.9,34.9,39,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Middle East & North Africa,MEA,..,..,..,..,..,30.7,30.3,31.2,30.9,30.5,29.1,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Middle East & North Africa (excluding high income),MNA,..,..,..,..,..,32.5,32.2,33.6,33,32.6,30.9,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Middle East & North Africa (IDA & IBRD),TMN,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Middle income,MIC,..,..,..,..,..,..,22.4847042062366,23.2634918074613,25.1122725617263,26.4759683058948,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,North America,NAC,..,..,..,..,..,10.5,10.3,9,8.6,8,7.6,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,OECD members,OED,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Other small states,OSS,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Post-demographic dividend,PST,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Pre-demographic dividend,PRE,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Small states,SST,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,South Asia,SAS,..,..,..,..,..,31,29.9,29.3,29.1,34.3,37.4,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,South Asia (IDA & IBRD),TSA,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Sub-Saharan Africa,SSF,..,..,..,..,..,51,52.6,55.2,56.7,57.3,59.5,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Sub-Saharan Africa (excluding high income),SSA,..,..,..,..,..,51.1,52.6,55.3,56.7,57.3,59.5,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Sub-Saharan Africa (IDA & IBRD),TSS,..,..,..,..,..,..,..,..,..,..,..,..
-Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Upper middle income,UMC,..,..,..,..,..,..,14.1,15.7,16.7,17,17.3,..
 Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,World,WLD,..,..,..,..,..,..,23,23.8,24.8,25.8,27.6,..
 Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Afghanistan,AFG,..,..,..,..,..,..,45.1,49.6,54.3,57.5,63.1,..
 Prevalence of moderate or severe food insecurity in the population (%),SN.ITK.MSFI.ZS,Albania,ALB,..,..,..,..,..,..,38.8,39,38.6,37.1,33.8,..
